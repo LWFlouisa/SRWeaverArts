@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<center><img src="" width="75%"></center>
+<center><img src="https://github.com/LWFlouisa/BushidoSatanism/blob/main/images/92617794-70e0d94ff72aae512738143b35769e1c_p0_master1200.jpg?raw=true" width="75%"></center>
 
 <h2>Os Busidosatanisimos Isi Miya Ehineguos</h2>
 <h2>The Bushido-Satanist path is my language.</h2>
