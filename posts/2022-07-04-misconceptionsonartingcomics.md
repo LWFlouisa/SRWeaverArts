@@ -1,6 +1,6 @@
 ---
 title: Misconceptions On Arting Comics
-layout: Default
+layout: post
 ---
 ## Misconceptions On Arting Comics
 
